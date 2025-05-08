@@ -32,5 +32,5 @@ Sistema desenvolvido em Java com foco na organização e gestão de um PetShop. 
 1️⃣ Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/sistema-gestao-petshop.git
+git clone https://github.com/jvictormelo/Sistema-de-Gestao_Petshop.git
 cd sistema-gestao-petshop
